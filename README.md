@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,ruby,rails,mysql,python)](https://skillicons.dev)
 
 ### Infra
-[![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,heroku)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,vim,jenkins)](https://skillicons.dev)
